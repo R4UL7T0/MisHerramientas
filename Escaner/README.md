@@ -6,10 +6,10 @@ Mi herramienta personalizada de escaneo de puertos desarrollada en Python que pe
 pip install PySocks 
 pip install requests
 
-# Ejemplos:
+# Ejemplos de uso:
 
 ## Normal
-python3 EscanerPro.py <IP>
+python3 EscanerPro.py <IP> -t NUMERO_DE_HILOS --skip-check
 
 ## Escaneo rápido
 python3 EscanerPro.py 192.168.1.1 --fast -p <PORT>,<PORT>
