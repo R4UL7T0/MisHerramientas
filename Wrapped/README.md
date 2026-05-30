@@ -1,6 +1,6 @@
 ## Descripción:
 
-Script automatizado de reconocimiento para prácticas de seguridad ofensiva. Realiza un análisis completo de objetivos (IP o dominio) mediante herramientas estándar.
+Script automatizado de reconocimiento en versión de prueba para prácticas de seguridad ofensiva. Realiza un análisis completo de objetivos (IP o dominio) mediante herramientas estándar.
 
 ## Características:
 
