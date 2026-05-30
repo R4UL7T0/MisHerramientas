@@ -1,5 +1,5 @@
 ## Herramientas-Propias
-Son buenas herramientas en Python enfocadas a ciberseguridad generadas con IA, pero compruebo que si están bien hechas y les agrego cosas para mejorarlas poco a poco.
+Herramientas que uso en mi día a día para automatizar procesos.
 
 ## Objetivo:
-Entender como funcionan a baja escala las grandes herramientas que uso.
+Entender como funcionan a baja escala las grandes herramientas y reducir el tiempo con las automatizaciónes.
